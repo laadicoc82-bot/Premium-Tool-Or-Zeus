@@ -70,7 +70,7 @@ def get_user_inputs():
     ID = input("𝐓𝐠 𝐔𝐬𝐞𝐫 𝐈'𝐝 : ")
     TOKEN = input("𝐓𝐠 𝐁𝐨𝐭 𝐓𝐨𝐤𝐞𝐧 : ")
     
-    print(f"For Quality Hits 20 minnimum followers and 1 post")
+    print(f"For Quality Hits 10 minnimum followers and 1 post")
     print(f"For Fastest Random 10 minnimum followers and 0 post")
     print('\n𝐒𝐞𝐥𝐞𝐜𝐭 𝐀 𝐘𝐞𝐚𝐫 𝐅𝐨𝐫 𝐔𝐬𝐞𝐫 𝐈𝐝 𝐑𝐚𝐧𝐠𝐞:')
     ranges = {
